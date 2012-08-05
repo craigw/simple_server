@@ -1,0 +1,5 @@
+#! /usr/bin/env ruby
+
+require 'simple_server'
+
+SimpleServer::Server.new(*ARGV).run
