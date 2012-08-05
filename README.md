@@ -41,4 +41,4 @@ Craig R Webster <craig@barkingiguana.com>
 ## Licence
 
 This project is released under the terms of the MIT licence, a copy of which
-can be found distributed with this profect in the file MIT-LICENCE.
+can be found distributed with this profect in the file `MIT-LICENCE`.
